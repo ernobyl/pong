@@ -1,10 +1,10 @@
 # pong
 
-## install dependencies
+### install dependencies
 npm install
 
-## build TypeScript
+### build TypeScript
 npm run build
 
-## start server
+### start server
 npm start
